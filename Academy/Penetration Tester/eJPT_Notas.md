@@ -1,4 +1,4 @@
-hola, quiero que me ayudes a ordenar por secciones y a dar una muy muy muy muy breve descripcion de cada comando, de esta lista, pero me preocupa que te saltes alguno, ya que es una lista muy larga:
+Notas Estudio eJPT
 
 netcraft - Informacion del sitio web incluso SSTL/TLS
 dnsrecon 
